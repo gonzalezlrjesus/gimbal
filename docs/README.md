@@ -10,10 +10,9 @@ The following are links to the projects and their doc site:
   - [ ] circleci
   - [ ] travisci
 - [ ] command
-  - [ ] cra
+  - [ ] audit
   - [ ] heap-snapshot
   - [ ] lighthouse
-  - [ ] heap-snapshot
   - [ ] size
   - [ ] unused-source
 - [ ] config
